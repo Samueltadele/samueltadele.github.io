@@ -1,0 +1,72 @@
+.Banner{
+	background:url(../IMG/books.jpg) no-repeat;
+	width: 695px;
+ 	height: 231px;
+}
+.container_24{
+	margin-top: 10px;
+}
+header{
+	overflow: hidden;
+}
+
+header h1 {
+	background:url(../IMG/logo.png) no-repeat;
+	text-indent: -9999px;
+	width: 174px;
+	height: 23px;
+	margin: 10px 10px;
+	float: left;
+}
+
+nav{
+	float: right;
+	
+}
+
+nav li {
+	display: inline;
+}
+.Banner{
+	background:url(../IMG/books.jpg) no-repeat;
+	width: 695px;
+ 	height: 231px;
+}
+.callout {
+	background: black;
+	height: 231;
+}
+
+a{
+	color: #7e7e7e;
+	text-decoration: none;
+}
+a:hover, .selected{
+	color: black;
+}
+.button{
+	background: #242624;
+	padding: 6px;
+}
+.button:hover{
+	color: white;
+}
+p{
+	font-size: 13px;
+	line-height: 20px;
+	color: #353535;
+}
+ h1, h2{
+ 	letter-spacing: -1px;
+ }
+h2{
+	font-size: 26px;
+	text-transform: lowercase;
+	border-bottom: 1px solid #d1d1d1;
+}
+.banner h2 {
+	color: white;
+	font-size: 28px;
+	
+}
+
